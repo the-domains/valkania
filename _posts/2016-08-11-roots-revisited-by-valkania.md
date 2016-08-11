@@ -51,8 +51,8 @@ app_links:
     namespace: google
     type: ios
 title: Roots Revisited by Valkania
-datePublished: '2016-08-11T12:28:46.710Z'
-dateModified: '2016-08-11T12:28:46.263Z'
+datePublished: '2016-08-11T12:30:35.266Z'
+dateModified: '2016-08-11T12:30:34.707Z'
 via: {}
 sourcePath: _posts/2016-08-11-roots-revisited-by-valkania.md
 hasPage: true
