@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T10:39:41.716Z'
+datePublished: '2016-08-11T10:39:45.383Z'
 sourcePath: _posts/2016-04-16-light-painting-with-pixelstick.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/78163959'
@@ -10,7 +10,7 @@ author:
   - name: Bitbanger
     url: 'http://vimeo.com/bitbangerlabs'
     avatar: {}
-dateModified: '2016-08-11T10:39:41.255Z'
+dateModified: '2016-08-11T10:39:45.140Z'
 title: Light painting with pixelstick
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/78163959'
@@ -52,7 +52,7 @@ description: >-
   sleep deprived guys and one Pixelstick in Brooklyn.
 inNav: false
 via: {}
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
