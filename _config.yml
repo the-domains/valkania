@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.9145933412946761
 name: Valkania
+navigation:
+  - name: Contact us
+    url: band@valkania.com
+    type: external
 title: Balkan Rhythm'n'Blues Band from London
 description: ''
