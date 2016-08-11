@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T12:39:59.645Z'
+datePublished: '2016-08-11T12:42:19.457Z'
 sourcePath: _posts/2016-08-11-roots-revisited-by-valkania.md
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'http://soundcloud.com/valkania'
     avatar: {}
 via: {}
-dateModified: '2016-08-11T12:39:59.078Z'
+dateModified: '2016-08-11T12:42:18.668Z'
 title: Roots Revisited (2016)
 app_links:
   - type: ios
@@ -65,7 +65,3 @@ _type: AudioObject
 # Roots Revisited (2016)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fplaylists%252F249386598%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fvalkania%2Fsets%2Froots-revisited&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000175875552-5w3boc-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-https://soundcloud.com/valkania/sets/roots
-
-    <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=359995838/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://valkania.bandcamp.com/album/roots">Roots by Valkania</a></iframe>
