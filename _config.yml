@@ -13,6 +13,9 @@ color:
 layout_spectrum: 0.9145933412946761
 name: Valkania
 navigation:
+  - name: AUDIO
+    id: 84a5115f-0ee3-493e-aa56-fbcd83e3a8a4
+    type: content
   - name: NEWSLETTER
     url: >-
       http://valkania.us11.list-manage1.com/subscribe?u=26ef188d16edc173173789dd8&id=c639747858
@@ -22,9 +25,6 @@ navigation:
     type: external
   - name: ABOUT
     id: 4b7d185b-06a0-4f92-8263-c1154d6bd232
-    type: content
-  - name: AUDIO
-    id: 84a5115f-0ee3-493e-aa56-fbcd83e3a8a4
     type: content
 title: Valkania
 description: Balkan Rhythm'n'Blues Band from London
