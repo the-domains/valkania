@@ -17,7 +17,7 @@ navigation:
     url: >-
       http://valkania.us11.list-manage1.com/subscribe?u=26ef188d16edc173173789dd8&id=c639747858
     type: external
-  - name: CONTACT US
+  - name: CONTACT
     url: 'mailto:band@valkania.com'
     type: external
   - name: About Us
