@@ -66,11 +66,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=iQiTfSQugmM'
 title: 'Meet VALKANIA, a Balkan Rhythm''n''Blues Band from London'
-datePublished: '2016-08-11T11:38:18.363Z'
-dateModified: '2016-08-11T11:38:18.020Z'
+datePublished: '2016-08-11T11:38:00.195Z'
+dateModified: '2016-08-11T11:37:50.584Z'
 via: {}
+starred: false
 sourcePath: _posts/2016-08-11-meet-valkania-a-balkan-rhythmnblues-band-from-london.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
