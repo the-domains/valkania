@@ -50,16 +50,14 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/valkania/sets/roots-revisited'
 title: Roots Revisited by Valkania
-datePublished: '2016-08-11T12:28:23.042Z'
-dateModified: '2016-08-11T12:26:15.125Z'
+datePublished: '2016-08-11T12:28:46.710Z'
+dateModified: '2016-08-11T12:28:46.263Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-roots-revisited-by-valkania.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: roots-revisited-by-valkania/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
