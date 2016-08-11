@@ -1,4 +1,3 @@
-layout_spectrum: 0.9145933412946761
 typography_spectrum: 0.942364260321483
 color:
   brandStrength: 0.8634829705115408
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.9145933412946761
 name: Valkania
+description: Balkan Rhythm'n'Blues Band from London
