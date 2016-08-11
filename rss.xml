@@ -4,14 +4,21 @@
         <description><![CDATA[Valkania]]></description>
         <link>https://thegrid.ai/valkania/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 16:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 16:29:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/valkania/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Meet VALKANIA, a Balkan Rhythm'n'Blues Band from London]]></title>
             <description><![CDATA[<article><h1>Meet VALKANIA, a Balkan Rhythm'n'Blues Band from London</h1><p>The name: Valkania comes from the Greek word Βαλκάνια, meaning simply - the Balkans; it has a nice female touch to it; nothing to do with volcanoes! Residency The residency of the band is North East London Mission (style): The band was formed in 2009 with the aim to marry Balkan with Western music Not a folk band that plays traditional music.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/07ce02a4549579f9f82e35e1cdd10907/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FiQiTfSQugmM%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=iQiTfSQugmM</link>
             <guid isPermaLink="false">33fdf77b-2853-4be8-837f-07600b90b339</guid>
-            <pubDate>Thu, 11 Aug 2016 16:29:46 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2016 16:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bahr Toufan, a collaboration Between Hamza Namira & Valkania]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FC3K6XFtIsYU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC3K6XFtIsYU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC3K6XFtIsYU%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=C3K6XFtIsYU</link>
+            <guid isPermaLink="false">c2a89a0a-446a-467b-ae3f-48e25b7fd8de</guid>
+            <pubDate>Thu, 11 Aug 2016 16:29:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[test]]></title>
@@ -19,13 +26,6 @@
             <link>https://www.youtube.com/playlist?list=PLezANConcMNH_cBjFQ-TViRReonla_HhA</link>
             <guid isPermaLink="false">5d99b80a-5858-48e2-b1ce-c5fa52651169</guid>
             <pubDate>Thu, 11 Aug 2016 16:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bahr Toufan, a collaboration Between Hamza Namira & Valkania]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FC3K6XFtIsYU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC3K6XFtIsYU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC3K6XFtIsYU%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=C3K6XFtIsYU</link>
-            <guid isPermaLink="false">c2a89a0a-446a-467b-ae3f-48e25b7fd8de</guid>
-            <pubDate>Thu, 11 Aug 2016 12:56:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
