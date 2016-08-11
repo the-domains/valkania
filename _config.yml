@@ -22,9 +22,6 @@ navigation:
   - name: PHOTOS
     id: 21c7aaff-3621-497a-bdb7-ead772279020
     type: content
-  - name: CONTACT
-    url: 'mailto:band@valkania.com'
-    type: external
   - name: NEWSLETTER
     url: >-
       http://valkania.us11.list-manage1.com/subscribe?u=26ef188d16edc173173789dd8&id=c639747858
