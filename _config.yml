@@ -13,15 +13,6 @@ color:
 layout_spectrum: 0.9145933412946761
 name: Valkania
 navigation:
-  - name: AUDIO
-    id: 84a5115f-0ee3-493e-aa56-fbcd83e3a8a4
-    type: content
-  - name: PHOTOS
-    id: 21c7aaff-3621-497a-bdb7-ead772279020
-    type: content
-  - name: ABOUT
-    id: 4b7d185b-06a0-4f92-8263-c1154d6bd232
-    type: content
   - name: CONTACT
     url: 'mailto:band@valkania.com'
     type: external
