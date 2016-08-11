@@ -20,5 +20,8 @@ navigation:
     url: >-
       http://valkania.us11.list-manage1.com/subscribe?u=26ef188d16edc173173789dd8&id=c639747858
     type: external
+  - name: ABOUT
+    id: 4b7d185b-06a0-4f92-8263-c1154d6bd232
+    type: content
 title: Valkania
 description: Balkan Rhythm'n'Blues Band from London
