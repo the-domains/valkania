@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T12:42:19.457Z'
+datePublished: '2016-08-11T15:50:13.906Z'
 sourcePath: _posts/2016-08-11-roots-revisited-by-valkania.md
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'http://soundcloud.com/valkania'
     avatar: {}
 via: {}
-dateModified: '2016-08-11T12:42:18.668Z'
+dateModified: '2016-08-11T15:50:13.421Z'
 title: Roots Revisited (2016)
 app_links:
   - type: ios
